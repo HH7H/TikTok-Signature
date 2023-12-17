@@ -13,7 +13,7 @@ data = {
     'url': '', # TikTok url want to sign
     'userAgent': '', # Paste your browser userAgent
     'version': '2', # choice 1 or 2
-    'Token': 'main-HH7H@Signature', # API Token
+    'Token': 'main-CPO@Signature', # API Token
     'data': '', # TikTok request body
     'Bogus': True, # make True to generate
     'msToken': True, # ...
